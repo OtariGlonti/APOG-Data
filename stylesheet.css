@@ -1,0 +1,65 @@
+body {
+ font_family:sans-serif;
+}
+
+#main-headline {
+    background-color: #6495ED;
+}
+
+h1 {
+  color: white;
+  margin-top: 25px;
+
+}
+
+h2 {
+    color: white;
+}
+
+hr {
+    color: white;
+    height:4px;
+}
+
+#language {
+  text-align: right;
+}
+
+.data-pics {
+  border: 3px solid #6495ED;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 175px;
+  border-radius: 50%;
+}
+
+.developer-names {
+  margin-right:70px;
+  margin-left:10px;
+}
+
+.footer {
+    background-color: #6495ED;
+    height: 30px;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: white;
+    padding-left: 15px;
+}
+
+.trustful {
+    background:#90ee90;
+
+}
+
+#copyright {
+    color: white;
+    float: right;
+    padding-right: 15px;
+}
